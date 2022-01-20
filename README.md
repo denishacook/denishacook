@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denishacook
-- 👀 I’m interested in web dev.
+- 👀 I’m interested in UX/UI Design.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on just about anything
 - 📫 How to reach me denishacook91@gmail.cm
